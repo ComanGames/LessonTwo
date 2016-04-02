@@ -11,6 +11,7 @@ namespace LessonTwo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Yura   ");
+            Console.WriteLine("Hello Sasha");
         }
     }
 }
