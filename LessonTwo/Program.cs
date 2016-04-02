@@ -10,8 +10,6 @@ namespace LessonTwo
     {
         static void Main(string[] args)
         {
-            SomeNewMethod();
-            SomeNewMethod();
         }
 
         private static void SomeNewMethod()
